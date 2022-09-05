@@ -3,4 +3,6 @@
 
 *1. Understand the data & Transform categorical variables to the numerical variables*   
 *2. Apply linear regression to predict the CTC*   
-*3. Evaluate the results of the analysis Excel data files are provided to you to help you with the assignment*   
+*3. Evaluate the results of the analysis*  
+
+***Excel data files are provided to you to help you with the assignment***   
